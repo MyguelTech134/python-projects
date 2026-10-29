@@ -20,7 +20,7 @@ This version assumes valid input.
 With Python 3.12 or newer installed, open this folder in a terminal and run:
 
 ```bash
-python main.py
+python match_session_summary.py
 ```
 
 ## Example
@@ -28,12 +28,12 @@ python main.py
 For these matches:
 
 | Result | Minutes |
-
-  | W |       20 
-  | L |       25 
-  | W |       15 
-  | W |       30 
-  | L |       10 
+|---|---|
+| W | 20 |
+| L | 25 |
+| W | 15 |
+| W | 30 |
+| L | 10 |
 
 The summary shows:
 
